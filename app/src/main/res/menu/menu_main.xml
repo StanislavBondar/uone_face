@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MainActivity">
+
+    <item
+        android:id="@+id/item_setting"
+        android:icon="@drawable/ic_setting"
+        android:orderInCategory="1"
+        android:title="@string/action_settings"
+        app:showAsAction="always" />
+
+
+    <!--<item-->
+    <!--android:id="@+id/item_user_name"-->
+    <!--android:orderInCategory="1"-->
+    <!--android:title="@string/user_name"-->
+    <!--app:showAsAction="never" />-->
+
+    <!--<item-->
+    <!--android:id="@+id/item_password"-->
+    <!--android:orderInCategory="2"-->
+    <!--android:title="@string/password"-->
+    <!--app:showAsAction="never" />-->
+
+    <!--<item-->
+    <!--android:id="@+id/item_server"-->
+    <!--android:orderInCategory="3"-->
+    <!--android:title="@string/server"-->
+    <!--app:showAsAction="never" />-->
+
+    <!--<item-->
+    <!--android:id="@+id/item_domain"-->
+    <!--android:orderInCategory="100"-->
+    <!--android:title="@string/domain"-->
+    <!--app:showAsAction="never" />-->
+
+    <!--<item-->
+    <!--android:id="@+id/item_use3g"-->
+    <!--android:orderInCategory="100"-->
+    <!--android:title="@string/use3g"-->
+    <!--app:showAsAction="never" />-->
+
+    <!--<item-->
+    <!--android:id="@+id/item_notifications"-->
+    <!--android:orderInCategory="100"-->
+    <!--android:title="@string/notifications"-->
+    <!--app:showAsAction="never" />-->
+
+    <!--<item-->
+    <!--android:id="@+id/item_call_setting"-->
+    <!--android:orderInCategory="100"-->
+    <!--android:title="@string/call_setting"-->
+    <!--app:showAsAction="never" />-->
+
+    <!--<item-->
+    <!--android:id="@+id/item_about"-->
+    <!--android:orderInCategory="100"-->
+    <!--android:title="@string/about"-->
+    <!--app:showAsAction="never" />-->
+
+
+</menu>
